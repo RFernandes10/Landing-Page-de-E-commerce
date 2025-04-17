@@ -1,3 +1,6 @@
+![gif da tela projeto](./public/animacao-tela-projeto.gif)
+
+
 # 🚀 Meu E-commerce com React + Vite
 
 Este projeto é uma landing page moderna e responsiva para e-commerce, desenvolvida com **React**, **Vite** e **Tailwind CSS**. Ele oferece uma base leve e eficiente para criar aplicações com componentes reutilizáveis, suporte a modo escuro e banners dinâmicos.
