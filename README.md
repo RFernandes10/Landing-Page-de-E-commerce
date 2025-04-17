@@ -1,4 +1,4 @@
-![gif da tela projeto](./public/animacao-tela-projeto.gif)
+![gif da tela projeto](./public/Animação-tela-projeto.gif)
 
 
 # 🚀 Meu E-commerce com React + Vite
