@@ -52,3 +52,16 @@ Desenvolvimento de uma landing page de e-commerce moderna com React, Vite e Tail
  ┣ 📜 vite.config.js        # Configuração do Vite
  ┣ 📜 .gitignore            # Arquivos e pastas ignoradas pelo Git
 ┗ 📜 index.html             # Estrutura HTML principal
+
+🏃‍♂️ Como rodar o projeto
+Clone o repositório para o seu computador:
+
+### Detalhes importantes para a seção **"Como rodar o projeto"**:
+
+- **Clone o repositório**: Aqui você fornece o comando para o usuário clonar o repositório via Git.
+- **Instale as dependências**: Usamos o comando `npm install` para instalar as dependências do projeto.
+- **Execute o servidor de desenvolvimento**: Após as dependências estarem instaladas, usamos o `npm run dev` para rodar o servidor de desenvolvimento com Vite.
+- **Acesse o projeto no navegador**: Instrução para o usuário acessar o projeto via `localhost`.
+
+
+
