@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@layer components {
+  .search-bar {
+    @apply w-0 group-hover:w-[300px] transition-all duration-300 
+    rounded-full group-hover:border group-hover:border-gray-500
+    px-3 py-1 focus:outline-none;
+  }
+}
+
+/* --primary: #f42c37;
+--secondary: #f42c37;
+--brandYellow: #fdc62e;
+--brandGreen: #2DCC6F;
+--brandBlue: #1376f4;
+--brandWhite: #eeeeee; */
